@@ -1,5 +1,15 @@
-## Hi there 👋
+## Ol, eu sou Greyck 👋🦖
 
+## Perfil profissional 🧾
+
+- 👨‍💻 Cursando o curso Técnico em Desenvolvimento de Sistemas ( SENAC - São Leopoldo)
+
+## 🚀 Habilidades
+
+Aqui estão as linguagens e tecnologias que estou aprendendo:
+
+### 🌐 Linguagens:
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 <!--
 **Gregbussiol1910/Gregbussiol1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
