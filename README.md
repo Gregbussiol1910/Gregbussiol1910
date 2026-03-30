@@ -1,4 +1,4 @@
-## Ol, eu sou Greyck 👋🦖
+## Ol, eu sou Greyck 👋
 
 ## Perfil profissional 🧾
 
